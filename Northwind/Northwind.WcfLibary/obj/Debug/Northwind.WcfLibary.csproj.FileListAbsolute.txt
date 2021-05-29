@@ -1,0 +1,16 @@
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.WcfLibary.dll.config
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.WcfLibary.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.WcfLibary.pdb
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.Bll.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.Dal.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.Entities.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.Interfaces.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\EntityFramework.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.Bll.pdb
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.Dal.pdb
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.Entities.pdb
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\Northwind.Interfaces.pdb
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\bin\Debug\EntityFramework.xml
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\obj\Debug\Northwind.WcfLibary.csprojResolveAssemblyReference.cache
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\obj\Debug\Northwind.WcfLibary.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.WcfLibary\obj\Debug\Northwind.WcfLibary.pdb

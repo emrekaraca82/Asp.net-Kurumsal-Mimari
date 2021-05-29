@@ -1,0 +1,4 @@
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.pdb

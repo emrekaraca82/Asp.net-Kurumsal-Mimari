@@ -1,0 +1,12 @@
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\Northwind.Dal.dll.config
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\Northwind.Dal.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\Northwind.Dal.pdb
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\EntityFramework.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\Northwind.Entities.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\Northwind.Entities.pdb
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\EntityFramework.xml
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\obj\Debug\Northwind.Dal.csprojResolveAssemblyReference.cache
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\obj\Debug\Northwind.Dal.dll
+C:\Users\DAMLA-REİS\Desktop\Engin Hoca\Kurumsal Mimaride\Northwind\Northwind.Dal\obj\Debug\Northwind.Dal.pdb

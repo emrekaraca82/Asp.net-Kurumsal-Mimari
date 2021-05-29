@@ -1,0 +1,14 @@
+﻿@model Northwind.Entities.ShippingDetails
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+<h2>Checkout Now</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.EditorForModel()//Burada ShippingDetails içindeki field form oluşturuyor
+    <input type="submit" value="Complate Checkout" />
+}
+
